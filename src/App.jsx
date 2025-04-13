@@ -11,7 +11,9 @@ function App() {
        <p>Track your expences with ease.<br />
        This application helps you stay organised and stay in controll of your finances</p>
        </header>
+       <div className="content">
        <Form />
+       </div>
        <footer className="footer">
               2025 Fahiye Muhammad. All rights reserved.
        </footer>
